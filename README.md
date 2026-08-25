@@ -4,7 +4,7 @@
  ## Project Overview
 This project focuses on cleaning and transforming a messy employee dataset using Microsoft SQL Server. The dataset contained missing values, invalid phone numbers, duplicate email addresses, combined columns, and incorrect data types.
 
-## Data Cleaning Performed
+### Data Cleaning Performed
 - Handled missing Values
 - Fixed invalid phone numbers
 - Remove duplicate email addresses
